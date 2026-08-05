@@ -1,0 +1,7 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 80' width='200' height='80'>
+  <rect width='200' height='80' rx='8' fill='#F7F9FC'/>
+  <circle cx='40' cy='40' r='18' fill='#173F7A' opacity='0.15'/>
+  <circle cx='40' cy='40' r='10' fill='#173F7A'/>
+  <text x='70' y='36' font-family='Arial,sans-serif' font-size='14' font-weight='700' fill='#173F7A'>Partenaire</text>
+  <text x='70' y='54' font-family='Arial,sans-serif' font-size='11' fill='#647386'>Organisation 01</text>
+</svg>
