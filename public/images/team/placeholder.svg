@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <rect width="400" height="500" fill="#E9EEF4"/>
+  <circle cx="200" cy="180" r="70" fill="#173F7A" opacity="0.12"/>
+  <circle cx="200" cy="160" r="45" fill="#214C89" opacity="0.25"/>
+  <ellipse cx="200" cy="340" rx="90" ry="70" fill="#214C89" opacity="0.18"/>
+  <text x="200" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#647386">Portrait</text>
+</svg>
